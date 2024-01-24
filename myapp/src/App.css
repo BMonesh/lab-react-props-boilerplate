@@ -1,0 +1,15 @@
+/* add your styles here */
+
+img{
+  height: 100%;
+  width: 100%;
+}
+#parent{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+
+}
+h3{
+  text-align: center;
+}
